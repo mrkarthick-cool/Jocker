@@ -18,12 +18,11 @@ Support as this tool
 I am using script language 😈 
 
 # termux 
-# kali linux , parrot linux , more 
 
 
 pkg update -y && pkg upgrade 
 
-pkg Install git -y
+pkg install git -y
 
 git clone  https://github.com/mrkarthick-cool/Jocker.git
 
@@ -55,13 +54,14 @@ Support as this tool
 
 I am using script language 😈 
 
-# termux 
 
-# kali linux , parrot linux , more 
+Support as kali linux , parrot linux , more 
 
-pkg update -y && pkg upgrade 
+# For kali  
 
-pkg Install git -y
+apt update -y && apt upgrade 
+
+apt install git -y
 
 git clone  https://github.com/mrkarthick-cool/Jocker.git
 
@@ -71,6 +71,6 @@ chmod +x J@ckér.sh
 
 ./J@ckér.sh
 
-Support this tool just forward ⏩ 
+ Hello friends Support this tool just forward ⏩ 
 
 With your friends and family
